@@ -473,7 +473,7 @@ public class PreviewFragment extends ResumeFragment {
                         "</div>" + "\n" +
                         "\n" +
                         "<div class=\"sectionContent\">" + "\n" +
-                        "<ul class=\"Languages\">" + "\n" +
+                        "<ul class=\"keySkills\">" + "\n" +
                         "\n" +
                         "<li>" + resume.languages + "</li>" + "\n" +
                         "</ul>" + "\n" +
