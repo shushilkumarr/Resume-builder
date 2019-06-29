@@ -36,7 +36,7 @@ public class EditActivity extends AppCompatActivity {
     EditText subtitleEditText;
     EditText descriptionEditText;
 
-    TextInputLayout titleEditTextLayout;
+    //TextInputLayout titleEditTextLayout;
     TextInputLayout detailEditTextLayout;
     TextInputLayout subtitleEditTextLayout;
     TextInputLayout descriptionEditTextLayout;
